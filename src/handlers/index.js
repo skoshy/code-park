@@ -4,12 +4,14 @@ import { setupDusk, getPartFromHandlers } from 'redux-dusk';
 import * as App from './App';
 import * as Community from './Community';
 import * as CommunityList from './CommunityList';
+import * as QuestionBank from './QuestionBank';
 
-export const handlers = {
-  [App.nameSpace]: App,
-  [Community.nameSpace]: Community,
-  [CommunityList.nameSpace]: CommunityList,
-};
+export const handlers = [
+  App,
+  Community,
+  CommunityList,
+  QuestionBank,
+];
 
 export const {
   nameSpaces,
