@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "ReduxDuskExampleReactNative-tvOS.app"
-               BlueprintName = "ReduxDuskExampleReactNative-tvOS"
-               ReferencedContainer = "container:ReduxDuskExampleReactNative.xcodeproj">
+               BuildableName = "CodePark-tvOS.app"
+               BlueprintName = "CodePark-tvOS"
+               ReferencedContainer = "container:CodePark.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "ReduxDuskExampleReactNative-tvOSTests.xctest"
-               BlueprintName = "ReduxDuskExampleReactNative-tvOSTests"
-               ReferencedContainer = "container:ReduxDuskExampleReactNative.xcodeproj">
+               BuildableName = "CodePark-tvOSTests.xctest"
+               BlueprintName = "CodePark-tvOSTests"
+               ReferencedContainer = "container:CodePark.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "ReduxDuskExampleReactNative-tvOSTests.xctest"
-               BlueprintName = "ReduxDuskExampleReactNative-tvOSTests"
-               ReferencedContainer = "container:ReduxDuskExampleReactNative.xcodeproj">
+               BuildableName = "CodePark-tvOSTests.xctest"
+               BlueprintName = "CodePark-tvOSTests"
+               ReferencedContainer = "container:CodePark.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ReduxDuskExampleReactNative-tvOS.app"
-            BlueprintName = "ReduxDuskExampleReactNative-tvOS"
-            ReferencedContainer = "container:ReduxDuskExampleReactNative.xcodeproj">
+            BuildableName = "CodePark-tvOS.app"
+            BlueprintName = "CodePark-tvOS"
+            ReferencedContainer = "container:CodePark.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ReduxDuskExampleReactNative-tvOS.app"
-            BlueprintName = "ReduxDuskExampleReactNative-tvOS"
-            ReferencedContainer = "container:ReduxDuskExampleReactNative.xcodeproj">
+            BuildableName = "CodePark-tvOS.app"
+            BlueprintName = "CodePark-tvOS"
+            ReferencedContainer = "container:CodePark.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ReduxDuskExampleReactNative-tvOS.app"
-            BlueprintName = "ReduxDuskExampleReactNative-tvOS"
-            ReferencedContainer = "container:ReduxDuskExampleReactNative.xcodeproj">
+            BuildableName = "CodePark-tvOS.app"
+            BlueprintName = "CodePark-tvOS"
+            ReferencedContainer = "container:CodePark.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

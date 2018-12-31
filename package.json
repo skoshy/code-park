@@ -1,5 +1,5 @@
 {
-  "name": "ReduxDuskExampleReactNative",
+  "name": "CodePark",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -45,5 +45,5 @@
   "jest": {
     "preset": "react-native"
   },
-  "defaultDebugPort": "50300"
+  "defaultDebugPort": "50301"
 }

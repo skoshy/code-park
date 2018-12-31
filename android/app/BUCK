@@ -45,12 +45,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.reduxduskexamplereactnative",
+    package = "com.skoshy.codepark",
 )
 
 android_resource(
     name = "res",
-    package = "com.reduxduskexamplereactnative",
+    package = "com.skoshy.codepark",
     res = "src/main/res",
 )
 

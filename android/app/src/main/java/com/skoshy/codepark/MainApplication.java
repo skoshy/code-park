@@ -1,4 +1,4 @@
-package com.reduxduskexamplereactnative;
+package com.skoshy.codepark;
 
 import android.app.Application;
 
