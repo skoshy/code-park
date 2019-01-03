@@ -12,6 +12,8 @@ export const initialState = {
 };
 
 export const { types, actions, reducer } = createHandler({
+  nameSpace,
+  initialState,
   types: {
     SET: {
       INTERACTION: {
@@ -24,22 +26,16 @@ export const { types, actions, reducer } = createHandler({
     FETCH: {
       QUESTIONS: {
         action: [],   // $actions.QUESTION_BANK.fetchQuestions()
-        reset: [`questionsMeta`],
+        // reset: [`questionsMeta`], // FIXME: this breaks redux-dusk for some reason
 
         SUCCESS: {
-
+          action: [],
         },
 
         FAILURE: {
-          
-        },
-        reducer: {
-          reduce: [`questions`], // sets the 'questions' state field to the 'questions' param
+          action: [],
         },
       },
-    }
+    },
   },
-
-  nameSpace,
-  initialState,
 });
